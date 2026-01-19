@@ -1,0 +1,84 @@
+SALES REPORT
+============================
+
+Total Transactions: 75
+Filtered Transactions: 75
+Total Sales Amount: 3493156.0
+
+Transaction Details:
+----------------------------------
+ID: T018 | Product: USB Cable | Region: South | Amount: 1384.0
+ID: T075 | Product: Headphones | Region: South | Amount: 0.0
+ID: T023 | Product: Wireless Mouse | Region: North | Amount: 4707.0
+ID: T059 | Product: Mouse,Wireless | Region: South | Amount: 4224.0
+ID: T035 | Product: Mouse | Region: North | Amount: 1724.0
+ID: T061 | Product: Wireless Mouse | Region: North | Amount: 1550.0
+ID: T057 | Product: Laptop,Premium | Region: North | Amount: 818960.0
+ID: T034 | Product: USB Cable | Region: West | Amount: 1944.0
+ID: T050 | Product: Monitor,LED | Region: East | Amount: 99970.0
+ID: T024 | Product: Wireless Mouse | Region: North | Amount: 9060.0
+ID: T004 | Product: Wireless Mouse | Region: West | Amount: 12231.0
+ID: T064 | Product: Wireless Mouse | Region: West | Amount: 3020.0
+ID: T045 | Product: External Hard Drive | Region: North | Amount: 34218.0
+ID: T015 | Product: Webcam | Region: East | Amount: 26091.0
+ID: T055 | Product: Webcam,HD | Region: West | Amount: 17862.0
+ID: T072 | Product: Keyboard | Region: South | Amount: 7464.0
+ID: T076 | Product: USB Cable | Region: East | Amount: -2295.0
+ID: T002 | Product: Mouse | Region: West | Amount: 4302.0
+ID: T051 | Product: Laptop,Premium | Region: South | Amount: 762460.0
+ID: T005 | Product: Laptop Charger | Region: South | Amount: 3054.0
+ID: T007 | Product: Mouse | Region: East | Amount: 3486.0
+ID: T077 | Product: Wireless Mouse | Region: North | Amount: -8982.0
+ID: T010 | Product: Laptop Charger | Region: South | Amount: 3186.0
+ID: T032 | Product: Keyboard | Region: West | Amount: 11808.0
+ID: T008 | Product: Laptop Charger | Region: North | Amount: 2994.0
+ID: T060 | Product: External Hard Drive,1TB | Region: North | Amount: 78867.0
+ID: T062 | Product: Mouse | Region: East | Amount: 5562.0
+ID: T003 | Product: Laptop | Region: North | Amount: 118656.0
+ID: T022 | Product: USB Cable | Region: West | Amount: 594.0
+ID: T046 | Product: Mouse,Wireless | Region: West | Amount: 2560.0
+ID: T049 | Product: Wireless Mouse,Gaming | Region: East | Amount: 6536.0
+ID: T006 | Product: USB Cable | Region: East | Amount: 895.0
+ID: T011 | Product: Webcam | Region: East | Amount: 9652.0
+ID: T031 | Product: Mouse | Region: South | Amount: 3528.0
+ID: T033 | Product: Monitor | Region: East | Amount: 131319.0
+ID: T058 | Product: Wireless Mouse,Gaming | Region: East | Amount: 9387.0
+ID: T073 | Product: USB Cable | Region: North | Amount: 944.0
+ID: T029 | Product: Laptop Charger | Region: East | Amount: 12312.0
+ID: T030 | Product: Webcam | Region: North | Amount: 2986.0
+ID: T021 | Product: Mouse | Region: South | Amount: 524.0
+ID: X2 | Product: Laptop Charger | Region: West | Amount: 7950.0
+ID: T071 | Product: Wireless Mouse | Region:  | Amount: 12397.0
+ID: T028 | Product: Headphones | Region: North | Amount: 16254.0
+ID: T014 | Product: Wireless Mouse | Region: West | Amount: 3336.0
+ID: T019 | Product: Monitor | Region: West | Amount: 149481.0
+ID: T054 | Product: Laptop Charger,65W | Region: East | Amount: 19922.0
+ID: T001 | Product: Mouse | Region: South | Amount: 4005.0
+ID: T036 | Product: Laptop Charger | Region: North | Amount: 10820.0
+ID: X611 | Product: Webcam | Region: North | Amount: 30870.0
+ID: T020 | Product: Laptop Charger | Region: West | Amount: 11694.0
+ID: T037 | Product: Mouse | Region: North | Amount: 768.0
+ID: X395 | Product: USB Cable | Region: North | Amount: 1938.0
+ID: T012 | Product: External Hard Drive | Region: East | Amount: 25992.0
+ID: T048 | Product: Laptop,Premium | Region: West | Amount: 374095.0
+ID: T044 | Product: Keyboard | Region: North | Amount: 14584.0
+ID: T025 | Product: Webcam | Region: East | Amount: 11574.0
+ID: T074 | Product: Laptop | Region: West | Amount: 0.0
+ID: T027 | Product: Webcam | Region: South | Amount: 40446.0
+ID: T013 | Product: Monitor | Region: South | Amount: 51695.0
+ID: T017 | Product: Mouse | Region: West | Amount: 9440.0
+ID: T038 | Product: Headphones | Region: West | Amount: 26541.0
+ID: T052 | Product: Laptop,Premium | Region: North | Amount: 114356.0
+ID: T042 | Product: Mouse | Region: North | Amount: 6958.0
+ID: T053 | Product: Monitor,LED | Region: North | Amount: 32134.0
+ID: T040 | Product: USB Cable | Region: West | Amount: 298.0
+ID: T039 | Product: Monitor | Region: West | Amount: 70464.0
+ID: T016 | Product: Laptop | Region: East | Amount: 65673.0
+ID: T041 | Product: Headphones | Region: North | Amount: 33775.0
+ID: T043 | Product: Monitor | Region: West | Amount: 90800.0
+ID: T009 | Product: USB Cable | Region: East | Amount: 2250.0
+ID: T056 | Product: Keyboard,Mechanical | Region: North | Amount: 13360.0
+ID: T047 | Product: External Hard Drive,1TB | Region: West | Amount: 24360.0
+ID: T026 | Product: Wireless Mouse | Region: North | Amount: 4617.0
+ID: T069 | Product: USB Cable | Region: North | Amount: 257.0
+ID: T067 | Product: Wireless Mouse | Region: South | Amount: 1308.0
